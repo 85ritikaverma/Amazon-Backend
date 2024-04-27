@@ -1,0 +1,16 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productsRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoosh": "^0.0.7",
+    "nodemon": "^3.1.0"
+  }
+}
